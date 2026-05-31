@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.one {
+    color: white;
+    background-color: black;
+}
+
+.two {
+    color: black;
+    background-color: yellow;
+}
+
+.one,
+.two {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
