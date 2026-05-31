@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+
+div p {
+    color: maroon;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 110%;
+}
